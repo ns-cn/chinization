@@ -1,6 +1,6 @@
 # 镜像站及热门源情况
 
-|名称|centosubuntu||maven|npm|homebrew|goproxy|flutter|
+|名称|centos|ubuntu|maven|npm|homebrew|goproxy|flutter|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)|[√](https://mirrors.tuna.tsinghua.edu.cn/help/centos/)|[√](https://mirrors.tuna.tsinghua.edu.cn/help/ubuntu/)|||[√](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)||[√](https://mirrors.tuna.tsinghua.edu.cn/help/flutter/)|
 |[阿里云开源镜像站](http://mirrors.aliyun.com/)|[√](https://developer.aliyun.com/mirror/centos)|[√](https://developer.aliyun.com/mirror/ubuntu)|[√](https://developer.aliyun.com/mirror/maven)|[√](https://developer.aliyun.com/mirror/NPM)|[√](https://developer.aliyun.com/mirror/homebrew)|[√](https://developer.aliyun.com/mirror/goproxy)|
