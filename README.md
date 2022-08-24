@@ -2,6 +2,8 @@
 
 > 中国化：提供常用系统、工具、仓库等本地化服务。
 
+其他：[docker](./docker/)、[flutter](./flutter/)、[golang](./golang/)、[homebrew](./homebrew/)、[ohmyzsh](./ohmyzsh/)
+
 |名称|centos|ubuntu|maven|npm|homebrew|goproxy|flutter|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)|[√](https://mirrors.tuna.tsinghua.edu.cn/help/centos/)|[√](https://mirrors.tuna.tsinghua.edu.cn/help/ubuntu/)|||[√](https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/)||[√](https://mirrors.tuna.tsinghua.edu.cn/help/flutter/)|
