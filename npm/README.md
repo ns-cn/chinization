@@ -1,6 +1,6 @@
 # npm chinization
 
-> npm使用国内源，以使用淘宝的npm源为例
+> npm使用国内源，以使用阿里云的npm源为例
 > 
 > 注：[```http://npm.taobao.org```和```http://registry.npm.taobao.org```已在 2022.06.30 号正式下线和停止 DNS 解析](https://developer.aliyun.com/mirror/NPM)
 
